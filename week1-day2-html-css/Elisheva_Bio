@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Elisheva's Bio</title>
+
+			
+	</head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<body>
+		<header>
+			<h1>Student Bio</h1>
+		</header>
+		<div class="container">
+			<section id="main-bio">
+				<h2>Elisheva Elbaz</h2>
+				<img id="bio-image" src="http://via.placeholder.com/200x200" alt="picture of me">
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut felis id neque condimentum convallis sit amet sed eros. Morbi lobortis risus vitae tortor viverra ultrices eu nec purus.</p>
+
+			</section>
+			<section id="contact-info">
+				<h2>Contact Info</h2>
+				<ul>
+					<li>
+						<strong>Email:</strong>
+						<a href="#">elishevaelbaz1@gmail.com</a>
+					</li>
+					<li>
+						<strong>Github:</strong>
+						<a href="#">elishevaelbaz</a>
+					</li>
+					<li>
+						<strong>Portfolio:</strong>
+						<a href="#">Coming Soon</a>
+					</li>
+				</ul>
+			</section>
+		</div>
+	</body>
+</html>
